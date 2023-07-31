@@ -9,12 +9,14 @@
         "js",
         "typescript",
         "tsconfig",
-        "node_modules",
+        "node",
+        "modules",
         "npm",
         "yarn",
         "pnpm",
-        "package.lock.yml",
-        "package.json"
+        "package",
+        "yml",
+        "json"
       ]
     },
     {
