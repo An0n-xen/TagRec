@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "tag": "Js",
+            "keywords": [
+                "nodejs",
+                "javascript",
+                "jvm",
+                "js",
+                "typescript",
+                "tsconfig",
+                "node",
+                "modules",
+                "npm",
+                "yarn",
+                "pnpm",
+                "package",
+                "yml",
+                "json"
+            ]
+        },
+        {
+            "tag": "Python",
+            "keywords": [
+                "python",
+                "conda",
+                "virtual",
+                "environment",
+                "pip",
+                "pipenv",
+                "poetry",
+                "interpreter",
+                "dictionaries",
+                "anaconda",
+                "jupyter",
+                "notebook",
+                "install",
+                "seaborn"
+            ]
+        },
+        {
+            "tag": "React",
+            "keywords": [
+                "props",
+                "components",
+                "state",
+                "hooks",
+                "context",
+                "react",
+                "webpack",
+                "yarn",
+                "npm",
+                "enzyme",
+                "jest",
+                "install",
+                "Nextjs"
+            ]
+        },
+        {
+            "tag": "",
+            "keywords": []
+        }
+    ]
+}
