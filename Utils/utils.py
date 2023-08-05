@@ -43,7 +43,7 @@ def bag_of_words(
         List[int]: The bag-of-words representation of the processed sentence.
     """
     tokenized_sentence = [w for w in processed_sentence.split(" ")]
-    bag = np.zeros(len(all_patterns), dtype=np.float32)
+    bag = np.zeros(len(set(all_patterns)), dtype=np.float32)
 
     for w in tokenized_sentence:
         if w in all_patterns:
